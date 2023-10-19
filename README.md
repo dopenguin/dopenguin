@@ -1,6 +1,6 @@
 # 🐧 are dope
 
-JavaScript developer with a love for [Vue.js][1] and a fable for GIS.  
+Web developer with a love for [Vue.js][1] and a fable for GIS.  
 Currently working on [POLAR][3], [Masterportal][2] and other geographic information systems.
 
 
