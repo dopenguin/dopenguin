@@ -1,8 +1,8 @@
 # 🐧 are dope
 
+Maintainer of [POLAR][3].  
 Web developer with a love for [Vue.js][1] and a fable for GIS.  
-Currently working on [POLAR][3], [Masterportal][2] and other geographic information systems.
-
+Also working on [Masterportal][2] and other geographic information systems.
 
   [1]: https://github.com/vuejs/vue
   [2]: https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev/
