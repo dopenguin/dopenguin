@@ -14,10 +14,6 @@ POLAR (Plugins for OpenLAyeRs) lets you build fully configurable map clients fro
  
 - **[FOSSGIS 2024][4]** — *POLAR – Vollkonfigurierbare, pluginbasierte Kartenklienten für bürgernahe Anwendungen* ([Code example][5])
 
-## 🛠️ Tech
- 
-`TypeScript` · `Vue.js` · `OpenLayers` · `vite` · `JavaScript`
-
   [1]: https://vuejs.org/
   [2]: https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev/
   [3]: https://github.com/Dataport/polar
