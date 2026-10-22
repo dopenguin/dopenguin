@@ -6,7 +6,7 @@ Also working on [Masterportal][2] and other geographic information systems.
 
 ## 🗺️ POLAR
  
-POLAR (Plugins for OpenLAyeRs) lets you build fully configurable map clients from reusable plugins. It powers things like the [Meldemichel Hamburg](https://static.hamburg.de/kartenclient/prod/) and the [Denkmalkarte Schleswig-Holstein](https://efi2.schleswig-holstein.de/dish/dish_client/index.html).
+POLAR (Plugins for OpenLAyeRs) lets you build fully configurable map clients from reusable plugins. It powers things like the [Meldemichel Hamburg](https://static.hamburg.de/kartenclient/prod/), the [Denkmalkarte Schleswig-Holstein](https://efi2.schleswig-holstein.de/dish/dish_client/index.html) and maybe even a governmental online service near you.
  
 → [repository][3] · [documentation and examples](https://dataport.github.io/polar/main/) · [npm](https://www.npmjs.com/search?q=%40polar)
  
